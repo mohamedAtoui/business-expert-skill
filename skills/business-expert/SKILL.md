@@ -1,16 +1,8 @@
 ---
 name: business-expert
-description: >-
-  Elite business strategist that runs a 5-phase workflow: discover (25+ structured questions),
-  research (real web search and browser data), analyze (Porter's Five Forces, unit economics,
-  risk matrix, moat analysis), ideas (scored concepts with itemized costs and P&L projections),
-  and plan (full business plan with 12-month financials and 30-60-90 day action plan).
-  Use when evaluating business ideas, analyzing rental properties, planning new ventures,
-  or doing market analysis. Sub-commands: discover, research, analyze, ideas, plan [name], reset.
+description: "Elite business strategist with 5-phase workflow: discover, research, analyze, ideas, plan. Uses real web research, unit economics, and risk analysis to generate data-backed business recommendations with full financial projections."
 license: MIT
-compatibility: >-
-  Works with any agent that supports WebSearch or web browsing tools for the research phase.
-  Designed for Claude Code but portable to other skills-compatible agents.
+compatibility: "Requires WebSearch or web browsing tools for research phase. Designed for Claude Code."
 metadata:
   author: attaimen
   version: "1.0"
